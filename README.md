@@ -46,9 +46,18 @@
   />
 </p>
 
+---
+
 ## 📂 Projetos em destaque
-- 🔹 Em desenvolvimento...
-- 🔹 Em breve novos projetos serão adicionados
+
+### 🏛️ Prefeitura de Aracaju – Aracaju/SE  
+**Abril/2026 – Maio/2026**  
+**Residência Tecnológica**
+
+- Desenvolvimento de um protótipo de aplicativo voltado à solução de problemas na área da saúde  
+- Análise de sistemas e levantamento de requisitos  
+- Implementação utilizando JavaScript  
+- Atuação com manutenção e desenvolvimento front-end  
 
 ---
 
