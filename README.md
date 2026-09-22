@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Francisco Barreto</h1>
 
 <p align="center">
-💻 Desenvolvedor Front-end | 🐍 Python como diferencial
+💻 Desenvolvedor Front-end | 🐍 Python, Html, CSS como diferencial
 </p>
 
 ---
