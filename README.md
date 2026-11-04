@@ -1,22 +1,24 @@
 <h1 align="center">👋 Olá, eu sou Francisco Barreto</h1>
 
 <p align="center">
-💻 Desenvolvedor Front-end | 🐍 Python, Html, CSS como diferencial
+💻 Desenvolvedor Front-end em formação · HTML · CSS · JavaScript · Python 🐍<br>
+📍 Aracaju, SE – Brasil
 </p>
 
 ---
 
 ## 🧠 Sobre mim
+- 🎓 Estudante de Ciência da Computação
 - 🎯 Focado em desenvolvimento Front-end
-- 💡 Utilizo Python para automações e lógica
+- 🐍 Utilizo Python para automações e lógica de programação
 - 📚 Em constante evolução na área de tecnologia
-- 🚀 Buscando oportunidades para crescer como desenvolvedor
+- 🚀 Aberto a oportunidades para crescer como desenvolvedor
 
 ---
 
 ## 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="HTML" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -56,7 +58,7 @@
 
 - Desenvolvimento de um protótipo de aplicativo voltado à solução de problemas na área da saúde  
 - Análise de sistemas e levantamento de requisitos  
-- Implementação utilizando JavaScript  
+- Implementação em JavaScript  
 - Atuação com manutenção e desenvolvimento front-end  
 
 ---
@@ -68,7 +70,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:franciscobarretocarodoso123@gmail.com">
+  <a href="mailto:franciscobarretocardoso123@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
